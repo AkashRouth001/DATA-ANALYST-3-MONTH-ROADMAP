@@ -44,7 +44,7 @@ A Data Analyst collects, processes, and analyzes data to reveal trends and insig
 
 ### Syllabus Breakdown:
 - [**Week 1:** Statistics & Mathematics](https://github.com/AkashRouth001/DATA-ANALYST-3-MONTH-ROADMAP/tree/c1da6ccd61eca5d0948bb49cc31945bb025a9eaf/week%201%20(Statistics%20%26%20Mathematics))
-- **Weeks 2 to 5:** SQL
+- [**Weeks 2 to 5:** SQL](https://github.com/AkashRouth001/DATA-ANALYST-3-MONTH-ROADMAP/tree/main/Weeks%202%20to%205%20(SQL)/sql%20notes)
 - **Weeks 6 to 7:** MS Excel
 - **Weeks 8 to 10:** Python
 - **Weeks 11 to 12:** Power BI & Tableau
