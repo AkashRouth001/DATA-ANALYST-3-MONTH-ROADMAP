@@ -7,7 +7,7 @@ This repository is designed to guide you through learning SQL in a structured ma
 
 ## **Weeks 2 to 5**: SQL Syllabus 📚
 
-### **Week 2: SQL Basics**
+### [**Week 2: SQL Basics**](https://github.com/AkashRouth001/DATA-ANALYST-3-MONTH-ROADMAP/tree/6d58a157d9e77695573b23176739a4c0fe5c7c5e/Weeks%202%20to%205%20(SQL)/sql%20notes/sql%20week%20wise/week2)
 - **Key Concepts**:
   - CREATE, INSERT, UPDATE, ALTER, DELETE, DROP, TRUNCATE
   - Data Types in SQL
