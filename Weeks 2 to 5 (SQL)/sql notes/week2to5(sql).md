@@ -17,7 +17,7 @@ This repository is designed to guide you through learning SQL in a structured ma
   - [SQLBolt Interactive Lessons](https://sqlbolt.com/)
 - **Practice**: Start with easy-level questions on **Hackerrank**.
 
-### **Week 3: Aggregation & Joins**
+### [**Week 3: Aggregation & Joins**](https://github.com/AkashRouth001/DATA-ANALYST-3-MONTH-ROADMAP/tree/dbdb9987a8231cb9d7cc20cb2833a417388eb98e/Weeks%202%20to%205%20(SQL)/sql%20notes/sql%20week%20wise/week3)
 - **Key Concepts**:
   - Aggregate Functions: SUM, MAX, MIN, COUNT, AVG, GROUP BY, HAVING
   - JOINS: INNER JOIN, RIGHT JOIN, LEFT JOIN, OUTER JOIN, SELF JOIN
@@ -26,14 +26,14 @@ This repository is designed to guide you through learning SQL in a structured ma
   - [SQL Playlist (Hindi)](https://youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw)
 - **Practice**: Start solving medium-level problems on **Hackerrank**, **Leetcode**, **DataLemur**, and **StrataScratch**.
 
-### **Week 4: Advanced SQL Techniques**
+### [**Week 4: Advanced SQL Techniques**](https://github.com/AkashRouth001/DATA-ANALYST-3-MONTH-ROADMAP/tree/dbdb9987a8231cb9d7cc20cb2833a417388eb98e/Weeks%202%20to%205%20(SQL)/sql%20notes/sql%20week%20wise/week4)
 - **Key Concepts**:
   - EXISTS, UNION, UNION ALL, Date & Time Functions, CTE (Common Table Expressions), Subqueries
   - Advanced Functions: CASE WHEN, Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LEAD, LAG, NTILE, FIRST_VALUE, LAST_VALUE)
   - Aggregate Functions as Window Functions
 - **Practice**: Solve medium to hard-level problems on **Hackerrank**, **Leetcode**, **DataLemur**, and **StrataScratch**.
 
-### **Week 5: Mastery Phase**
+### [**Week 5: Mastery Phase**](https://github.com/AkashRouth001/DATA-ANALYST-3-MONTH-ROADMAP/tree/dbdb9987a8231cb9d7cc20cb2833a417388eb98e/Weeks%202%20to%205%20(SQL)/sql%20notes/sql%20week%20wise/week5)
 - **Key Concepts**: Real-life SQL Interview Preparation!
   - Practice SQL interview questions asked by companies like **Facebook**, **Google**, and more.
 - **Practice**: Test your skills with real SQL interview questions on:
